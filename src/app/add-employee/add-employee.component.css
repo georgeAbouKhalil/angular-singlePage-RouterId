@@ -1,0 +1,19 @@
+.box{
+    width: 500px;
+    height: 400px;
+    margin-left: 31%;
+    margin-top: 3%;
+    background: rgb(71, 71, 231);
+    border-radius: 2%;
+    text-align: center;
+    border: 1px solid black;
+}
+input{
+    margin-top: 4%;
+    width: 80%;
+    
+}
+label{
+    margin-top: 3%;
+    color: white;
+}
